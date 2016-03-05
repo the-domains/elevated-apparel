@@ -1,7 +1,7 @@
 name: Elevated Apparel
 favicon: null
-layout_spectrum: 0.4250812416430563
-typography_spectrum: 0.6864249003119767
+layout_spectrum: 0
+typography_spectrum: 0.35226
 title: Quality Over Quantity
 cta:
   domain: null
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
+    - '#b3b3b3'
+    - '#000000'
+    - '#a2a2a2'
+    - '#282828'
+    - '#505050'
   brandStrength: 0.009523515356704593
   lightness: 0.17748976359143853
   saturation: 0.0028909374959766865
